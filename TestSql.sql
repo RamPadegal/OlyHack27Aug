@@ -1,1 +1,1 @@
-select * from hr.employees;
+select count(*) from hr.employees;
